@@ -1,0 +1,108 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Iphone 12 pro",
+            "desc": "Apple iphone 12th generation",
+            "price": 13299,
+            "color": "Black",
+            "image": "https://th.bing.com/th/id/OIP.hjZtIcknYScvdNMCKTpfvgHaIw?w=124&h=180&c=7&r=0&o=5&dpr=1.12&pid=1.7"
+        },
+        {
+            "id": 2,
+            "name": "Iphone 13 pro",
+            "desc": "Apple iphone 12th generation",
+            "price": 14299,
+            "color": "White",
+            "image": "https://th.bing.com/th/id/OIP.c-7qVKc3jg9Iy2g2-8nN-wHaIE?pid=ImgDśet&rs=1"
+        },
+        {
+            "id": 3,
+            "name": "Iphone 12",
+            "desc": "Apple iphone 12th generation",
+            "price": 13799,
+            "color": "Blue",
+            "image": "https://th.bing.com/th/id/OIP.H9CobSHzODVNpC-MEuDehQHaHa?pid=ImgDet&rs=1"
+        },
+        {
+            "id": 4,
+            "name": "Realme 8S",
+            "desc": "6 gb + 128 phone storage",
+            "price": 17400,
+            "color": "white",
+            "image": "https://th.bing.com/th/id/OIP.pYQc8oQieRFTJ3s7CSDUaQHaFj?pid=ImgDet&rs=1"
+        },
+        {
+            "id": 5,
+            "name": "Samsung",
+            "desc": "8gb + 256 gb ",
+            "price": 20000,
+            "color": "black",
+            "image": "https://th.bing.com/th/id/OIP.5wGiFXityEcWigbnAGB0MgHaJ4?w=186&h=248&c=7&r=0&o=5&dpr=1.12&pid=1.7"
+        },
+        {
+            "id": 6,
+            "name": "Iphone 8",
+            "desc": "Apple phone 12th generation",
+            "price": 9562,
+            "color": "Blue",
+            "image": "https://th.bing.com/th/id/OIP.Rc2jpq-6LfJmYhXFrH3cPAHaOJ?w=115&h=210&c=7&r=0&o=5&dpr=1.12&pid=1.7"
+        },
+        {
+            "id": 7,
+            "name": "Vivo",
+            "desc": "look like Apple",
+            "price": 13799,
+            "color": "Blue",
+            "image": "https://th.bing.com/th/id/OIP.oh4kNnQtYxZIDJDssP2D2QHaFq?pid=ImgDet&rs=1"
+        },
+        {
+            "id": 8,
+            "name": "Redmi 11t 5g pro",
+            "desc": "8gb + 128gb",
+            "price": 17800,
+            "color": "black",
+            "image": "https://th.bing.com/th/id/OIP.UuUL7tG_nAVDhNa3-Y0t5AHaHa?pid=ImgDet&rs=1"
+        },
+        {
+            "id": 9,
+            "name": "Redmi ",
+            "desc": "8gb + 128gb",
+            "price": 20000,
+            "color": "black",
+            "image": "https://th.bing.com/th/id/OIP.4fP9t4DW_NmePcX4ZMWWFQHaHa?pid=ImgDet&rs=1"
+        },
+        {
+            "id": 10,
+            "name": "Redmi ",
+            "desc": "8gb + 128gb",
+            "price": 21000,
+            "color": "black",
+            "image": "https://external-preview.redd.it/jEo1R-8YsWA3kYcGXztjEawK1fO80Xp-o6OHVV9B9Co.jpg?auto=webp&s=95af3932bdccbdbafeec50ea9705945760ee9f66"
+        },
+        {
+            "id": 11,
+            "name": "5 in 1 air sofa ",
+            "desc": "5 in 1 air sofa with air machine easy to use",
+            "price": 2999,
+            "color": "black",
+            "image": "https://th.bing.com/th/id/OIP.9Es93mhPX28Hyaqt0KeAUQHaIq?w=164&h=192&c=7&r=0&o=5&pid=1.7"
+        },
+        {
+            "id": 12,
+            "name": "Vegitable chopper ",
+            "desc": "Easy to cut vegitable with less time",
+            "price": 199,
+            "color": "black",
+            "image": "https://th.bing.com/th/id/OIP.0tBvQYJFMeRwyO0T_5n2tgHaH6?w=189&h=202&c=7&r=0&o=5&pid=1.7"
+        },
+        {
+            "id": 13,
+            "name": "kettle ",
+            "desc": "Make water hot in 6 second easy to use",
+            "price": 700,
+            "color": "black",
+            "image": "https://www.bing.com/th?id=OIP.3IXPDixlr9qLZ90wRnkJFQHaHa&w=176&h=170&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2"
+        }
+    ]
+}

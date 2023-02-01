@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "158838102750",
+    "project_id": "aipxpert",
+    "storage_bucket": "aipxpert.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158838102750:android:12a6946ae6c157dc24004f",
+        "android_client_info": {
+          "package_name": "com.example.aipxperts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158838102750-8upv5phhrdisga97keklp93aigjbop7b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAksCEyfac_w2BB4wCJeX7dwJEAfprVtJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158838102750-8upv5phhrdisga97keklp93aigjbop7b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
